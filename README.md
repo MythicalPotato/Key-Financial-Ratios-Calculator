@@ -22,12 +22,12 @@ The project includes various functions that ensure data accuracy, validation, an
 
 Steps for proper usage:
 
-1. Run the file through a code editor or your command prompt
+1. Run the scraper.py file through a code editor or your command prompt
 2. Fill out the prompts as they appear EXACTLY as prompted (This is especially
 important when filling out the list of tickers that you want to analyze)
 3. OPTIONAL: Input stock split data. A robust stock split checker is already included in the code.
 4. If you are given a “Success!”, then the ratios will be saved to the folder you specified or a new one that it created.
-5. OPTIONAL: Download and run the attached Microsoft Excel script to format your data for readability.
+5. OPTIONAL: Download and run the attached Microsoft Excel script (formatting.ts) to format your data for readability.
 
 *** Possible Error Notes: ***
 
